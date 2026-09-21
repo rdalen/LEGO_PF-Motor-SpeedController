@@ -65,10 +65,10 @@ To make the stripes on the potentiometer scale, color in the lines with a black 
 ## Files
 
 ### FreeCAD
-The original parametric FreeCAD enclosure designs.
+The original parametric [FreeCAD enclosure designs](src/FreeCad).
 
 ### STL
-Ready-to-print STL files for the enclosure body and lid.
+Ready-to-print [STL files](src/STL) for the enclosure body and lid.
 
 ---
 
